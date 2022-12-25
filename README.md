@@ -1,4 +1,9 @@
 # PreEntrega2-Clissa
+
+Alumna: Agustina Clissa
+
+Proyecto: MyBig
+
 ¿Qué es MyBiG?
 MyBiG es una plataforma de Gestión Jurídica y Trabajo Colaborativo que está especialmente diseñada y pensada para  Estudios Jurídicos, Áreas de Legales y RRHH, compañías industriales  y /o de servicios. Es una nueva forma de gestionar los procesos y la documentación.
 MyBig ofrece  la digitalización segura de la información y la accesibilidad las 24 horas al día independientemente de la ubicación.
